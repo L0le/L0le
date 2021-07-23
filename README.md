@@ -1,6 +1,6 @@
 <img src="header.png">
 
- <img src="https://win98icons.alexmeub.com/icons/png/computer_explorer-5.png" width="20">・I am currently working at [**nowhere**].  
+ <img src="https://win98icons.alexmeub.com/icons/png/computer_explorer-5.png" width="20">・I am working as a freelancer, heh.  
  <img src="https://win98icons.alexmeub.com/icons/png/world-4.png" width="20">・I am from Argentina.                                                                               
  <img src="https://win98icons.alexmeub.com/icons/png/recycle_bin_full-4.png" width="20">・My main languages are Spanish and English.    
  <img src="https://win98icons.alexmeub.com/icons/png/notepad_file_gear-2.png" width="20">・My main goal is to acquire as much knowledge as possible to be able to teach others.     
